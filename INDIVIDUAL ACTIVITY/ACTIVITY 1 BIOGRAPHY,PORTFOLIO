@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AILA MOSCOSO Project Portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+                <div class="container">
+                     <nav>
+                         <ul>
+                            <li><a href="#">HOME</a></li>
+                            <li><a href="#">ABOUT</a></li>
+                            <li><a href="#">CONTACT</a></li>
+                        </ul><a href="#"></a>
+                    </div>
+                </div>
+            </nav>
+    <header>
+        <h1>Hi I am Aila</h1>
+        <p>Student &amp; Developer</p>
+        <h1> </h1>
+        <p class="subtitle">Welcome to my website! I'am Aila, a skilled, student  web developer.
+        Happy to serve you.</p>
+    </header>
+    <section id="BIOGRAPHY PROJECT">
+    </Header>
+    <div class="container">
+        <h2>ABOUT ME</h2>
+        <p></p>
+        <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">GETTING TO KNOW ME</button>
+        <div id="demo" class="collapse in">
+            <li>NAME: Aila O. Moscoso</li>
+                    <li>AGE: 20</li>
+                    <li>STATUS: Single</li>
+                    <li>GENDER: Female</li>
+                    <li>ADDRESS: Guinobatan Albay</li>
+                    <li>Cat Lover</li>
+                    <li>HOBIES: Cooking, Listening to music, Watching Movies</li>
+                    <li>Contact Info: Email-aom-2022-3617-50142@bicol-u.edu.ph</li>
+                    <li> Phone Number:09356723376</li>
+          
+        </div>
+      </div>
+        
+        </div>
+    </body>      
+                
+
+    </body>
+    </header>
+    <section >
+        <h3>Live life to the fullest!</h3>
+    <div class="intro>
+
+        <p id ="firstname"></p>
+        <p id ="hometown>"
+        
+
+    </section>
+    </section>
+    <footer>
+        
+    </header>
+    <section>
+        <picture>
+            <source media="(min-width: 10px)" srcset="https://scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/376691214_1591154308077274_6675316255849637946_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeFuD-jIxwU8QedNKQDmd1kR1RU09K4hZ2DVFTT0riFnYH2IyJr3vJfYQp_j2RCvTVEPkUx5x-QyJWqd8IO8nJzL&_nc_ohc=MenpEDPuAmgAX8_bDeT&_nc_zt=23&_nc_ht=scontent.fcrk3-1.fna&oh=00_AfBfa_rvjF13OaD4Lq--vZIMaU-uydBdqaj9UhWCIqRcjw&oe=65949A26">
+            <source media="(min-width: 20px)" srcset="https://scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/376691214_1591154308077274_6675316255849637946_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeFuD-jIxwU8QedNKQDmd1kR1RU09K4hZ2DVFTT0riFnYH2IyJr3vJfYQp_j2RCvTVEPkUx5x-QyJWqd8IO8nJzL&_nc_ohc=MenpEDPuAmgAX8_bDeT&_nc_zt=23&_nc_ht=scontent.fcrk3-1.fna&oh=00_AfBfa_rvjF13OaD4Lq--vZIMaU-uydBdqaj9UhWCIqRcjw&oe=65949A26">
+            <img src="https://scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/376691214_1591154308077274_6675316255849637946_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeFuD-jIxwU8QedNKQDmd1kR1RU09K4hZ2DVFTT0riFnYH2IyJr3vJfYQp_j2RCvTVEPkUx5x-QyJWqd8IO8nJzL&_nc_ohc=MenpEDPuAmgAX8_bDeT&_nc_zt=23&_nc_ht=scontent.fcrk3-1.fna&oh=00_AfBfa_rvjF13OaD4Lq--vZIMaU-uydBdqaj9UhWCIqRcjw&oe=65949A26" style="width:auto;">
+          </picture>
+          
+    </section>
+    </footer>
+<p>&copy; 2023 Aila Moscoso</p>
+    </footer>
+
+</body>
+</html>

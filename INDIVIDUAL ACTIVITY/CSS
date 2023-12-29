@@ -1,0 +1,81 @@
+```css
+/* Reset some default styles */
+body, h1, h2,h3, h4 p {
+    margin: 0;
+    padding: 0;
+    font-family:Poppins', sans-serif ;
+    box-sizing: border-box;
+}
+body{
+        background-image: url(https://scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/414678054_1652764878582883_6436594664869131807_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeGN0OJQqZIfMAo3Zb1-w6E2eI2Luxt2XT94jYu7G3ZdP10pEceA1q01bALhBgq1A7n6R3i3pNTtkOzMD_unO5SB&_nc_ohc=xA6lK8xEknIAX_79X74&_nc_zt=23&_nc_ht=scontent.fcrk3-1.fna&oh=00_AfBy0VktN2GbWKOZZzwLyUR7tOP4SMRx3AU1-AUxkaC3-g&oe=65935D16);
+        background-repeat: no-repeat;
+        background-attachment: fixed; 
+        background-size: 100% 100%;
+      }
+#header{
+    width: 50%;
+    height:50vh;
+}
+.container{
+    padding: 5px 5%;
+}
+
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo{
+    width: 30px;
+}
+
+nav ul li{
+    display:inline-block;
+    list-style: none;
+    margin:10px 10px
+}
+
+nav ul li a{
+    color:#;
+    text-decoration:none;
+    font-size px;
+    position;relative;
+
+}
+
+nav ul li a:hover::after{
+    width:100%
+}
+}
+
+
+/* Global styles */
+
+body {
+    font-family:times 'Times New Roman', Times, serif, sans-serif;
+    background-color: #49c049;
+    color: #6;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #EEE;
+    color: #FF7F50;
+}
+
+#projects {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #FF7F50;
+    color: #fffffz;
+}
+```
